@@ -1,0 +1,25 @@
+{
+  "name": "2drs-thundercok",
+  "version": "1.0.0",
+  "description": "Thundercok project website",
+  "main": "index.html",
+  "scripts": {
+    "start": "sass --watch ./assets/scss/styles.scss ./styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anmabe06/2drs-thundercok.git"
+  },
+  "keywords": [
+    "Thundercok",
+    "NASA",
+    "model",
+    "rocket"
+  ],
+  "author": "2drs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anmabe06/2drs-thundercok/issues"
+  },
+  "homepage": "https://github.com/anmabe06/2drs-thundercok#readme"
+}
